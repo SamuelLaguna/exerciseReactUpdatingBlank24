@@ -1,0 +1,39 @@
+body{
+    background-image: url(./LannisterMarch.jpeg);
+    background-repeat: no-repeat;
+  height: 100%;
+  background-size: cover;
+}
+
+button{
+   background-color: white;
+   height: 50px;
+}
+
+p{
+    color: crimson;
+    font-size: 25px;
+}
+
+h1{
+    color: gold;
+    font-size: 25px;
+}
+
+h2{
+    color: gold;
+    
+}
+
+h3{
+    color: gold;
+    font-size: 25px;
+}
+
+div{
+
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
